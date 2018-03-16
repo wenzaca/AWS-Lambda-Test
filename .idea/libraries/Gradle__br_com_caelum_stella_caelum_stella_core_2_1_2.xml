@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: br.com.caelum.stella:caelum-stella-core:2.1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.caelum.stella/caelum-stella-core/2.1.2/938e69b9f542ca1f2acf21582036f25a4398702f/caelum-stella-core-2.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.caelum.stella/caelum-stella-core/2.1.2/91f750b5e3f4eedbd0317b263a4d8ce792ec883a/caelum-stella-core-2.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
